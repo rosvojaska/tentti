@@ -133,4 +133,117 @@ https://www.oppiportti.fi/op/pkr00001/do
     - Oireiden vakavuus
     - relapsit, remissiot 
 - Toipuminen harvinaista
-### Hoito
+## Hoito
+  #### Keskeistä hoidossa
+    - Keskeistä psykoterapeuttisten ja psykososiaalisten hoitojen yhdistäminen
+        | - Lääkitys, psykososiaalinen hoito, kuntoutus ja perheen tukeminen
+    - Biologiset hoidot: lääkehoito, aivojen sähköhoito, aivojen valohoidot, aivojen magneettihoidot sekä uniestot
+    - Parantavaa hoitoa ei ole, mutta oireita voi lievittää
+    - Keskeistä on varhaisoireiden tunnistaminen: voidaan ehkäistä tai lieventää psykoosioireita
+    - Nopea reagoiminen kun nuorella epäillään skitsofrenista psykoosia
+        | - Haastatellaan läheisiä, opettajia jne
+        | - Somaattisten ja perinnöllisen riskin selvittäminen
+    - Ensipsykoosi vaatii usein sairaalahoitoa
+  #### Taustat ja syyt
+    - Alttius- ja haavoittuvuusmalli pyrkivät selittämään skitsofrenian syntyä
+    - Geneettinen alttius tulisi pyrkiä selvittämään
+    - Psykoosin muut syyt tulisi sulkea pois ennen skitsofrenian hoitamista
+        | - temporaaliepilepsia
+        | - AV-häiriöt
+        | - Päihteet: amfetamiini, hallusinogeenit, savut
+        | - Delirium
+  #### Hoitoperiaatteet
+    1. Akuuttivaihe
+        | - Oireiden nopea lievittäminen
+        | - Osaston tulee olla rauhallinen, vähän ärsykkeitä
+        | - Lääkitys kuntoon välittömästi, koska voi johtaa lääkevastaisuuteen muuten
+    2. Tasaantumisvaihe
+        | - Psykoosin uusiutumisriski korkea
+        | - Voi kestää kuukausia
+        | - Tavoite lievittää psykoosioireita
+        | - Psykoedukaatio, supportatiiviset toimet
+        | - Psykososiaalinen stressi voi uudelleen laukausta psykoosin
+    3. Vakaa vaihe
+        | - Mikäli kestänyt 5 vuotta ilman psykooseja voidaan lääkityksestä luopua asteittain
+    Relapsi
+        | - Kolmannes laiminlyö lääkityksen
+        | - Päihteet lisää relapsin riskiä
+        | - Pienetkin muutokset somaattisissa, sosiaalisissa tai psykologisissa tekijöissä voi laukaista relapsin
+  #### Lääkehoito
+    - Antipsykootit first line
+    - Lääkitys tärkein yksittäinen tekijä psykoosin ehkäisyssä
+    - Hoitomuotojen yhdistäminen
+    - Annokset mitataan klooripromatsiiniekvalentteina
+        | - Paljonko mitäkin lääkettä tarvitaan että saadaan sama teho kuin 100 mg klooripromatsiinia
+        | - 200 mg ja siitä yli riittää yleensä vasteeseen
+        | - 800 mg on terapeuttisen ikkunan yläraja
+    - Mikäli epäillään että potilas voi laiminlyödä lääkitystä niin annetaan se i.m.
+    - Tavallisimmat haittavaikutukset:
+        | - Painonnousu
+        | - Neurologiset haittaoireet: parkinsonismi, dystonia, akatisia
+        | - Prolaktiinierityksen lisääntyminen
+        | - QTc-ajan pidentyminen ja väsymys
+        | - Antikolinergiset ja antiadrenergiset vaikutukset
+
+# Muut psykoosit
+    - Psykoosin keskeiset syyt somaattiset, lääkkeet ja päihteet, skitsofrenia
+  #### Skitsoaffektiivinen häiriö
+    - Skitsofrenia + bipolaarihäiriö
+  #### Harhaluuloisuushäiriö
+    - Keskeinen piirre harhaluulot
+    - Eri asia kuin epäluuloinen persoonallisuus
+    - Paranoidi epäluuloisuus voi psykotisoitua
+    - Oireet lähellä psykoottisen masennuksen oireita
+  #### Vainoharhainen harhaluuloisuus
+    - Yleisin harhaluuloisuuden tyyppi, eli paranoidi harhaluuloisuus
+    - Kverulanttinen harhaluuloisuus: jatkuvat kantelut, oikaisuvaatimukset ja oikeudenkäynnit kunnian palauttamiseksi
+    - Voi lähtee jostain melko harmittomasta kuin lumipallo kasvamaan
+  #### Somaattisharhaiset harhaluulot
+    - Harhaluulo siitä, että omassa kehossa on jotain vialla: joku sairaus, paha haju tms.
+    - Jatkuva vaatimus plastiikkakirurgisiin toimenpiteisiin tms.
+  #### Erotomaaninen harhaluuloisuus
+    - de Clerambaultin oireyhtymä
+    - Harhaluulo että joku toinen on rakastunut henkilöön
+    - Kohde voi olla julkisuuden henkilö tai esim. työkaveri
+  #### Suuruudenharhainen harhaluuloisuus
+    - Megalomania
+    - Henkilöllä on vääristynyt kuva omista kyvyistä tai roolista
+    - Tavallista maanisessa psykoosissa tai skitsofrenisssa
+  #### Mustasukkaisuusharhainen harhaluuloisuus
+    - Othellon oireyhtymä
+    - Tavallista parisuhteessa: pyritään kaikin keinoin kontrolloimaan kumppania
+  #### Indusoitunut harhaluuloisuus
+    - folie à deux-oireyhtymä
+    - 
+
+# Masennushäiriöt
+  ## Kliininen kuva ja diagnoosi
+  #### jotain
+    - jotain 
+        | - jotain
+  ## Hoito
+  #### jotain
+    - jotain 
+        | - jotain
+  ## Muut masennushäiriöt
+  #### jotain
+    - jotain 
+        | - jotain
+
+# Kaksisuuntaiset mielialahäiriöt
+  ##  Kliininen kuva ja diagnoosi
+  #### jotain
+    - jotain 
+        | - jotain
+  ## Kulku ja ennuste
+  #### jotain
+    - jotain 
+        | - jotain
+  ## Hoito
+  #### jotain
+    - jotain 
+        | - jotain
+  ## Mielialan aaltoiluhäiriö
+  #### jotain
+    - jotain 
+        | - jotain

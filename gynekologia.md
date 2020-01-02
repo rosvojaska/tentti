@@ -152,6 +152,12 @@
       - Saattaja voi olla mukana, jos se lisää turvallisuutta, mutta muuten ylimääräiset ihmiset pois tilasta
   #### Mitä gynekologinen tutkimus sisältää:
       - Ennen tutkimusta kysellään asiakkaalta vähän, että mitä kuuluu:
+      
+      G.O.K.U.
+        Gynekologinen
+          Obstetrinen
+            Kuukautiset
+              Usein kysytyt, eli syy ja taustat
 
       Yleisanamneesi pitää sisällään:
         - tutkimuksen syy
@@ -476,7 +482,7 @@
         - Monta vuotta tartunnasta alkaa AIDS (aquired immunodefiency syndrome)
             - AIDS:n seurauksena vaaratonkin bakteeri voi aiheuttaa infektion
 # 3.5 Hyvänlaatuiset gynekologiset kasvaimet
-  #### Kondunkaulan hyvälaatuiset kasvaimet
+  #### Kohdunkaulan hyvälaatuiset kasvaimet
       Nabothin kysta
           - kohdunkaulan rauhaskäytävän tukkeutuma
       Polyyppi
