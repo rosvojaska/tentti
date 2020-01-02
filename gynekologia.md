@@ -19,7 +19,7 @@
        - seksuaalisuuden huomioiminen
        - gynekologisiin sairauksiin liittyvät pelot
        - eettiset kysymykset: raskauden keskeytys, raiskauksen uhri, sikiön oikeudet, uskonto
-  ##
+  ## 
       - Synnytysoppi, obstetiikka
       - Naistentautioppi, gynekologia
 
@@ -142,7 +142,38 @@
         - Oma ulkonäkö muuttuu, mikä voi vaikuttaa itsearvostukseen
         - Naisilla vaikeaa löytää seuraa
         - Säännölliset orgasmit vähentävät kuukautiskipuja, migreeniä ja stressiä
-  # 1.8 Gynekologisetr tutkimukset ja näytteet
+  # 1.8 Gynekologiset tutkimukset ja näytteet
+  #### Gynekologiset tutkimukset ja asiakkaan kohtaaminen
+      - Anamneesi:
+          - kuukautiset
+          - kuukautiskierto
+          - raskaudet
+          - gynekologisen alueen 
+      - Milloin gynekologinen tutkimus tehdään?
+          - Vuotohäiriö
+          - Alavatsakipuja
+          - Kipu: yhdyntä, ulostaminen
+          - Ei tarvi tehdä rutiinisti
+          - Rintojen tutkimus voi tehdä jos siihen erityistä syytä
+      - Tutkimusasento
+          - Potilas makaa selällään ja jalat levällään
+      - Gynekologinen tutkimus:
+          1. Inspektiovaihe.
+            - Havainnoidaan karvoitus
+            - Hyvä varoittaa ennen kuin koskee
+            - Ulkosynnyttimien anatomia ja muut merkit
+          2. Spekulatutkimus
+            - Havainnoidaan emättimen limakalvot
+            - Kohdunnapukka
+            - Onko valkovuotoa?
+          3. Gynekologiksten elinten tunnustelu
+            - Palpoidaan kohtu ja munasarjat
+      - Mitä bimanuaalisesti selvitetään:
+          - Kohdun koko ja suuntautuminen
+          - Kohdun liikkuvuus
+          - Kipu (tulehdukset, endometrioosi, vulvodynia)
+          - Kipukohdat
+            
   #### Gynekologinen perustutkimus   
       - Syy tekemiselle: säännöllinen hormonilääkitys, poikkeavat kuukautiset, alavatsakivut tai vuotohäiriö
       - Aiheuttaa usein pelkoa, jännitystä tai häpeää

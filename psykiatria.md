@@ -214,14 +214,96 @@ https://www.oppiportti.fi/op/pkr00001/do
     - Tavallista parisuhteessa: pyritään kaikin keinoin kontrolloimaan kumppania
   #### Indusoitunut harhaluuloisuus
     - folie à deux-oireyhtymä
-    - 
+    - Harhaluuloisuus "tarttuu" toiseen
+    - Induktio = johtaa jotakin
+  #### Harhaluulojen hoito
+    - Hyvä hoitosuhde ja ammatillisuus
+    - Kognitiivinen terapia keskeinen työtapa:
+      | - Normalisoiminen: psykoosit on iha luonnollinen väestötasolla, mikä niiden luonne on ja mistä ne johtuu, miksi ja miten
+      | - Todisteiden tarkastelu
+      | - Äärikysymysten käyttö
+      | - Järkeily ja käytännön kokeet
+  #### Lyhytkestoinen psykoottinen häiriö
+    - Akuutti tai ohimenevä psykoottinen häiriö
+    - Syy voi olla joku ulkoinen tekijä, mutta yleisesti sitä ei tiedetä tai voida osoittaa
+    - Toimintakyky palautuu täysin
+  #### Synnytyksen jälkeinen psykoosi
+    - Puerperaali- tai postpartumpsykoosi
+    - Alkaa masennuksen ja maanisuuden oireilla
+  #### Päihdepsykoosi
+    - Seuraa kunnon vetämistä
+    - Voimakkaat ja elävät näköharhat
+    - Huumeet alle 30- ja alkoholi yli 30-vuotiailla
+    - Kannabis, amfetamiini ja kokaiini tavallisimmat
+  #### Alkoholipsykoosi
+    - Seuraa kun on pitkään otettu isoo mukia
+  #### Kannabispsykoosi
+    - Akuutin skitsofrenian kaltainen
+    - Näköharhat, ärtyneisyys, kohonnut mieliala
+    - Derealisaatio ja depersonalisaatiokokemukset
+  #### Amfetamiinipsykoosi
+    - 25% käyttäjistä saa näitä
+    - Iso annos = iso riski
+    - Ominaista kiihtymys joka voi vaatia sairaalahoitoa
+  #### Ruumiillisen häiriön aiheuttama psykoottinen häiriö
+    - Eri asia kuin delirium
+    - Aiheuttajia: alzheimer, Levyn kappale-tauti, vaskulaarinen dementia
+    - Frontotemporaalisessa deliriumissa: Huntingtonin tauti, Creutzfeldt-Jacobin tauti
+    - Parkinsonin lääkkeet voi aiheuttaa
+    - Liittyy myös aineenvaihduntasairauksiin:
+        - Hyperhomokysteinemia
+        - Hyperammonemia (eli liikaa typpiä ja ammoniumia virtsassa)
+        - Wilsonin tauti (hepatolentikulaarinen degeneraatio)
+        - Niemann-Pickin tauti (aivoihin kertyy gangliosiidejä)
 
 # Masennushäiriöt
   ## Kliininen kuva ja diagnoosi
-  #### jotain
-    - jotain 
-        | - jotain
+    - Depressiivinen affekti = masentunut tunnetila
+    - Masenutunut mieliala, mielihyvän menetys (anhedonia) ja väsymys
+    - Mitä vaikeampi masennus, sitä tärkeämpi on lääkehoito
+    - Magneetti-, valo- ja sähköhoito voi auttaa
+    - Perus terkkarissa voidaan hoitoo lievä ja keskivaikea. Vaikea ja psykoottinen on erikoislääkärin heiniä
+    - Unipolaarinen masennushäiriö = maanisia kausia ei esiinny
+    - Usein uuusiutuvat
+    - Noin 5 % kuolee itsemurhaan
+    - Psykososiaalinen toimintakyky heikkenee
+    - Masennus alkaa prodromaalioireilla
+  #### Erotusdiagnostiikka
+    - Tärkeää erottaa masennus kaksisuuntaisesta
+    - Ihmiset harvoin hakeutuu hoitoon hypomanian takia
+    - Elimellinen mielialahäiriö
+        | - Aivoinfarki
+        | - B- tai D-vitamiinin tai foolihapon puutos
+        | - Diabetes mellitus
+        | - Hypo- tai hypertyreoosi
+        | - Epilepsia, Parkinson jne
   ## Hoito
+    - Lievä ja keskivaikea masennus
+        - Ei välttämättä tarvi lääkkeitä
+        - Psykoterapia
+        - Antidepressantit varsinkin jos psykoterapiaa ei saada järjestettyä
+    - Vaikea ja psykoottinen masennus
+        - Biologiset hoidot: lääke, sähkö, uni jne.
+    - Hoito jaetaan kolmeen vaiheeseen
+  #### 1. Akuuttivaihe
+    - Tähtää nopeaan toipumiseen
+
+    - Arvioidaan masennuksen vaikeusaste
+    - Selvitetään toimintakykyä
+    - Selvitetään liitännäiset häiriöt ja oireet, kuten ahdistus ja päihdeongelma
+    - Itsetuhoriski ja mahdollinen psykoottisuus: tehdään M1-lähete
+    - Hoito: 
+        - Lääkehoito
+        - Psykoterapia (kognitiivinen, interpersoonallinen, psykodynaaminen)
+        - Muut biologiset hoidot: aivojen sähköhoito, kirkasvalohoito
+  #### 2. Jatkohoitovaihe
+     - Kestää noin 6 kk
+     - Relapsin ehkäisy
+
+     - Seurataan potilaan tilaa
+     - Tuetaan hoitomyönteisyyttä
+  ##### 3. Ylläpitovaihe
+     - Pyritään ehkäisemään uusiutumista
   #### jotain
     - jotain 
         | - jotain
