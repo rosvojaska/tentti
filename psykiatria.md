@@ -304,9 +304,42 @@ https://www.oppiportti.fi/op/pkr00001/do
      - Tuetaan hoitomyönteisyyttä
   ##### 3. Ylläpitovaihe
      - Pyritään ehkäisemään uusiutumista
-  #### jotain
-    - jotain 
-        | - jotain
+  
+  #### Depressiolääkkeet
+    SSRI, selective serotonin reuptake inhibitors
+      | - Essitalopraami, fluoksetiini, fluvoksamiini, paroksetiini, sertraliini ja sitalopraami
+      | - Ei tarvi titrata
+    SNRI, serotoniinin ja noradrenaliinin takaisinoton estäjät
+      | - Venlafaksiini, duloksetiini ja milnasipraani
+      | - Krooniseen kipuun auttaa myös
+    Muut
+      | - Mirtatsapiini, bupropioni
+    Trisykliset masennuslääkkeet
+      | - Vanhan koulun lääkkeet
+      | - Kovat sivuvaikutukset, joten näitä ei enää käytetä juuri
+      | - Amitriptyliini, doksepiini, klomipramiini jne.
+    
+    - Lääkeresistentti depressio on kun kahta lääkettä on kokeiltu tuloksetta
+    - Jos depressiolääkkeistä ei ole apua, voidaan ottaa litiumista tai antipsykooteista vähän kyytipoikaa
+    - Sähköhoito auttaa usein vaikeassa tai psykoottisessa masennuksessa
+  #### Psykoterapia
+    - Psykodynaaminen lyhytpsykoterapia
+    - Kognitiivinen lyhytpsykoterapia
+    - Interpersonaallinen psykoterapia
+    - Ratkaisukeskeiset ja ongelmanratkaisuterapia
+    - Nettiterapia
+  #### Sähköhoito
+    - 6-12 hoitokertaa sarjana
+    - Vaikeissa ja psykoottisissa masennuksissa käytetty
+  #### Transkraniaalinen magneettistimulaatio (TMS)
+    - 
+  #### Kirkasvalohoito
+    - Kaamosmasennuksen hoidossa
+    - 30-60 minuuttia kerrallaan
+    - Voidaan tehä myös kotona
+
+
+
   ## Muut masennushäiriöt
   #### jotain
     - jotain 
