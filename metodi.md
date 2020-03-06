@@ -59,5 +59,39 @@ Eskola, A. Sosiologian tutkimusmenetelmät 1.
 Eskola, A. Sosiologian tutkimusmenetelmät 2.
 Ohtonen, J. Satakunnan makropilotin arviointi. Raportti.
 Kankkunen & Vehviläinen-Julkunen. Tutkimus hoitotieteessä.
+Kankkunen, P. & Vehviläinen-Julkunen, K. 2015. Tutkimus hoitotieteessä. 
 
 Terveydenhuollon maisterikoulutus.
+
+## Rakenne
+1. Metodin / aiheen esittely
+    ## 1.1 Opinnäytetyön aihe
+        - Savuton sairaalassa
+        - Tupakoimattomuuteen kannustaminen sairaalassa
+        - Lääkärit varsinkin kohteena
+        - Kirjaukset
+    ## 1.2 Mistä ja miksi saatiin / otettiin
+        - TAYS keuhkosairauksien polin lääkäri
+        - aikaisemmin jo tehty aiheesta maisterityö
+        - meidän työ sama kuin aikaisempi selvitys
+    ## 1.3 Mikä metodi ja minkä takia
+        - metodi on kvantitatiivinen
+        - aiheena on suuret luvut ja seurataan trendien kehitystä
+        - trendin seuraaminen
+        - ilmiö jota selvitettiin oli jo selvillä ja hyvin rajattu
+        - selvitetään ilmiön laajuutta ja esiintyvyyttä
+2. Luotettavuuden toteutuminen
+    ## Käsitteet: reliabiliteetti, validiteetti
+    ## Minkä takia nämä omasta mielestä toimi
+3. Aineiston keruu
+    ## Mistä aineisto tuli
+    ## Miten aineisto kerättiin
+    ## Havainnointilomake
+    ## Havainnointilomakkeeseen tehdyt muutokset vrt aikaisempi
+    ## Havainnointilomakkeen kritiikki
+    ## Potilastietorekisterin kritiikki
+    ## Aineiston analyysi
+4. Tulokset, pohdinta
+    ## Tutkimuskysymykset ja niihin vastaaminen
+
+# Teksti
