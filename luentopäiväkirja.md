@@ -94,14 +94,107 @@
       - MAPA
 
 
+1. Hoitosuhdetyöskentely (Patient Relation)
+      (Schaeffer, Marshfield & Munson 2002)
+2. Ryhmähoito
+      (Schaeffer, Marshfield & Munson 2002)
+      (Smolar, Fallon & Brabender 2004)
+      (Jones, Fitzpatrick & Rogers 2016)
+3. Verkostohoitotyö (networking)
+4. Ikäihmisten mielenterveyshoitotyö
+      (Sadock & Kaplan 2005)
+      (Wheeler 2013)
+      (Meiner 2014)
+      (Jones, Fitzpatrick & Rogers 2016)
+5. Päihdehoitotyö (Addiction Care)
+      (Sadock & Kaplan 2005)
+      (Wheeler 2013)
+6. Haasteelliset vuorovaikutustilanteet
+
+
 ## Lähteet
 
 Schaeffer, L., Marshfield, L. & Munson, C. 2002. Springhouse review for psychiatric and mental health nursing certification. Wolters Kluwer Health.
+  
+  1. Hoitosuhdetyöskentely
+      - Kommunikoimalla ihmiset vaihtaa ajatuksia
+      - myös käyttäytyminen ja käytös on kommunikointia, eli kaikki käytös on kommunikointia ja kaikki kommunikointi vaikuttaa käytökseen, sanaton viestintä
+      - verbaalinen ja non-verbaalinen viestintä
+      - rakentava ja ei-rakentava viestintä
+      - terapeuttinen keskustelu on sitä, missä hoitava taho, esim. hoitaja ja hoidettava, eli asiakas on interaktiossa keskenään merkityksellisesti ja intensiivisesti ja keskittyy vain asiakkaan ongelmiin
+            - hoitajan tarvii valita sanat tarkkaan
+            - tarkoitus on lisätä asiakkaan itse-kontrollia ja käsitystä itsestään
+      - terapeuttisen keskustelun prinsiipit:
+            - aitous, kunnioitus, rehellisyys, konkreettisuus, turvallisuus, avoimuus
+      - esteitä terapeuttisen hoitosuhdetyöskentelyn onnistumiselle:
+            - hoitaja antaa valmiita vastauksia: estää asiakkaan omien johtopäätösten muodostamista ja näin ollen lisää riippuvuutta hoitajasta ja muista
+            - "Miksi?": voi olla liikaa potilaalle, saatta jopa mennä puolustuskannalle tai sit vaa yrittää miellyttää hoitajaa
+            - potilaan läksyttäminen: ei auta ongelmanratkaisukyvyn kehittämisessä
+      - vaatimuksia hoitosuhdetyöskentelylle:
+            - yksityisyys: ei saa vahingossakaan muut kuulla
+            - asiakkaan itsetunnon ylläpitäminen: positiivinen vahvistaminen lisää halua kertoa lisää
+            - hoitaja ei saa olla tuomitseva tai alentuva
+      - kysymykset tulisi kysyä tietyssä järjestyksessä:
+            1. miten kuvailisit tilanteen / ongelman?
+                  - neutraali kysymys
+                  - osallistaa asiakkaan
+            2. mitä ajattelet tästä tilanteesta?
+                  - potilaan vastaus kertoo paljon
+                  - potilaan oma näkemys pitää yllä sitoutumista aiheeseen
+            3. mitä tunteita se herättää?
+                  - tunteiden jakaminen voi pelottaa, varsinkin alussa
+                  - tunteet tulisi kohdata ilman tuomitsemista ja hyväksyvästi
+      - tekniikoita:
+            - Kuuntelu:
+                  - ajatuksen kanssa kuunnellaan
+                  - voi huomata tiettyjä 
+            - sanotun toistaminen
+                  - varmistaa kuullun ymmärtämisen
+                  - asiakkaalle tulee kuulluksi tulemisen tunne
+            - using broad openings:
+                  - missä olit kun tunsit olosi ahdistuneeksi?
+                  - yleisluontoiset ja melko ylimalkaiset kysymykset
+                  - asiakas voi sitten keskittyä siihen mihin itse haluaa
+            - tarkentavat kysymykset:
+                  - "mitä sä tarkotat kun sä sanot että --?"
+                  - epämääräisten viestien tarkentaminen voi myös saada tiristettyä asiakkaasta lisää tietoa
+            - konfrontointi, yhteenotto:
+                  - huomioidaan epäjohdonmukaisuuksia ja konflikteja asiakkaan sanomisissa
+                  - "huomaaks sä kun sä sanot että sä --, mutta kuitenkin sä --?"
+                  - sit odotetellaan että mitä asiakas sanoo siihen
+            - fokusointi, tarkennus:
+                  - hoitajan tulisi pitää asiakas asiassa
+            - hiljaisuus:
+                  - antaa asiakkaalle aikaa puhua ja ajatella
+                  - hoitaja ei kuitenkaan koko aikaa voi istua hiljaa, ettei vaikuta torjuvalta
+            - ehdotukset, vaihtoehdot:
+                  - voi auttaa asiakasta näkemään vaihtoehtoja tilanteelleen
+                  - näiden kanssa on oltava kuitenkin varovainen, ettei liikaa ohjaile asiakasta
+            - näkemyksen jakaminen:
+                  - hoitaja kertoo oman näkemyksensä tilanteesta ja asiakas sitten korjaa jos on korjattavaa
+                  - auttaa ehkäisemään väärinymmärryksiä
+            - teemojen tunnistaminen:
+                  - hoitaja tunnistaa ja kertoo asiakkaalle tämän kertomuksessa toistuvat asiat ja kokemukset
+                  - ohjaa asiakasta tutkimaan näitä ongelma-alueita
+            - reflektointi:
+                  - hoitaja reflektoi takaisin asiakkaan ajatuksia, tunteita, kysymyksiä
+                  - auttaa hoitajaa ymmärtämään asiakkaan kommunikointia
+                  - antaa kuvan että hoitaja välittää ja on kiinnostunut
+      - ohjeita
+            - keskity asiakkaan kysymyksiin ja tunteisiin
+            - anna asiakkaalle tietoa
+                  - mitä hoitajalta voi ja sopii odottaa
+                  - mitä asiakkaalta odotetaan
+            - voimaannuta asiakasta:
+                  - otetaan mukaan hoitosuunnitelman tekoon ja muuhun vastaavaan
+            - ennakoi asiakkaan tarpeet
+            - ota vastuuta asiakkaasta: pyydä palautetta ja kerro missä ollaan hoidossa menossa
+
+  2. Ryhmähoito:
       - Authoritarian style — a rigidly structured, rule-oriented approach with the focus on the leader, who clearly is in charge 
       - Democratic style — collaborative direction with group members; shared de-cision making and member-centered focus 
       - Laissez-faire style — little or no direction; leaves group members to their own resources; unsure of goals
 
-  2. Ryhmähoito:
       - ryhmä vahvistaa käytösmalleja
       - sopii varsinkin jos minäkuvan kanssa ongelmia
       - _sisältö_, _prosessi_, _koheesio_ on keskeiset käsitteet
@@ -110,7 +203,12 @@ Schaeffer, L., Marshfield, L. & Munson, C. 2002. Springhouse review for psychiat
             - ryhmän koheesio eli yhteenkuuluvuus
       - transferenssi ja vastatransferenssi sekä resistenssi
       - vetäjän tulee olla tietoinen ryhmädynamiikasta ja ryhmäytymisen prosessista
-
+      - Yalom nimeää ne 11 parantavaa tekijää myös tässä lähteessä (Yalom, I. 1995. Theory and Practice of Group Psychotherapy.)
+      - hyvän ryhmän vetämisen tekijät: hyvä kommunikaatio, delegointi, osaa opettaa, innovoi ja ottaa riskejä eri tekniikoiden kanssa, ohjat pysyy käsissä eli control
+      - perhehoitotyön tavoite on selvittää puhumattomat asiat: salaisuudet julki
+            - vähentää konflikteja
+            - lisätä tietoisuuttaa muista jäsenistä
+            - auttaa yksilöitä pärjäämään sisäisten ja ulkoisten haitallisten prosessien kanssa
 
 Smolar, A., Fallon, A. & Brabender, V. 2004. Essentials of group therapy. John Wiley & Sons, Incorporated.
   2. Ryhmähoito
@@ -123,7 +221,9 @@ Smolar, A., Fallon, A. & Brabender, V. 2004. Essentials of group therapy. John W
       - liian pienissä rymissä voi vertaistuki ja vertaisopetus jäädä vähäiseksi
       - liian pienissä ryhmissä myös voi olla että vältetään liikaa konflikteja että ryhmä pysyisi kasassa
       
-      - mitä ryhmäterapiasta on hyötyä?
+      - mitä ryhmäterapiasta on hyötyä? sivut ~85-95
+      - toivon lisääminen, hyväksyntä, altruismi, tilanteen yleistettävyys / vertaistuki, koheesio / yhteenkuuluvuus
+      - muilta oppiminen, esimerkki, vertaisohjaus, opetus / opastus
       - 
 
 
@@ -131,18 +231,19 @@ Smolar, A., Fallon, A. & Brabender, V. 2004. Essentials of group therapy. John W
             - motivaatio
             - 
 
-- Sadock, B. & Kaplan, V. 2005. Kaplan & Sadock's Comprehensive Textbook of Psychiatry.
-      https://andor.tuni.fi/discovery/fulldisplay?docid=alma993802414205973&context=L&vid=358FIN_TAMPO:VU1&lang=fi&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,comprehensive%20textbook%20of%20psychiatry&offset=0
 
+- Sadock, B., Sadock, V. & Kaplan H. 2005. Kaplan and Sadock's Comprehensive textbook of psychiatry.
+      https://andor.tuni.fi/discovery/fulldisplay?docid=alma993802414205973&context=L&vid=358FIN_TAMPO:VU1&lang=fi&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,comprehensive%20textbook%20of%20psychiatry&offset=0
+      
+  4. Ikäihmisten mielenterveystyö
       - Lääkkeet ja krooniset sairaudet erityispiirre vanhustyössä
       - Uusia ystäviä ja varsinkaan puolisoita ei useinkaan enää tule
       - Avun hakemista vaikeuttaa stigman pelko
 
-      5. Päihdehoitotyö
-            - useimmiten opioidien käyttöä edeltää tupakka, alkoholi tai kannabis
-            - yhdysvalloissa asuinpaikan rikollisuus korreloi korkeaa opioidien käyttöastetta
-            - opioidien käyttäjät usein muutenkin rikollisia (usassa)
-            - 
+  5. Päihdehoitotyö
+      - useimmiten opioidien käyttöä edeltää tupakka, alkoholi tai kannabis
+      - yhdysvalloissa asuinpaikan rikollisuus korreloi korkeaa opioidien käyttöastetta
+      - opioidien käyttäjät usein muutenkin rikollisia (usassa)
 
 Wheeler, K. 2013. Psychotherapy for the advanced practice psychiatric nurse. A how-to guide for evidence-based practice. Springer publishing company.
       https://ebookcentral.proquest.com/lib/tampere/reader.action?docID=1581170&query=comprehensive+textbook+of+psychiatry
@@ -162,6 +263,20 @@ Wheeler, K. 2013. Psychotherapy for the advanced practice psychiatric nurse. A h
 Jones, J., Fitzpatrick, J. & Rogers, V. 2016. Psychiatric-mental health nursing. An interpersonal approach. Springer publishing company.
       https://ebookcentral.proquest.com/lib/tampere/reader.action?docID=4452680&query=group+therapy
 
+  2. Ryhmähoito
+      - Ryhmä koostuu kahdesta tai useammasta yksilöstä, joilla on vähintään yksi yhteinen piirre tai päämäärä
+      - Terapeuttisen ryhmän tyyppejä:
+            - avoin ryhmä: helppo tulla, mutta voi olla vaikea päästä "ineen". usein alempi koheesio, kuin suljetuilla
+      - Ryhmäprosessit ovat taustalla käynnissä, vaikkei niitä huomaisi
+      - ryhmän parantavia tekijöitä: toivon lisääminen, tilanteen yleistettävyys, tiedon jakaminen, sosiaalisten taitojen kehittäminen, katarsis (vaikka tää toisessa lähteessä vähä kyseenalaistettiinkin), perheroolien kertaaminen vertaamalla niitä toisten ihmisten vastaaviin mm. eli melkein samat kun siinä toisessakin lähteessä. löytyy sivulta noin 140
+      - koheesiota lisää: samat arvot, commitment, selkeät tavoitteet, yhteistyö ryhmän sisällä, demokraattisuus, ryhmän sopiva koko, ilmapiiri
+      - ryhmän vaiheet - orientaatio, työstäminen, lopetus:
+            1. yleensä ollaan kohteliaampia koska ei vielä luoteta ryhmään. 
+            2. koheesio lisääntyy
+            3. voidaan tuntea surua kun ryhmä hajoaa
+      - ryhmän vetäjä voi pitää kirjaa ryhmän suhteista ns. interaction chronogrammin avulla = ihmisten välille piirretään viivoja sitä mukaan, kun ne stressaa toisiaan tms.
+      - perhehoitotyössä genogrammi, eli siis sukupuu. siitä voi nähdä ylisukupolvien jatkuvien mallien siirtymistä
+
   4. Ikäihmisten mielenterveystyö
       - Aktiivinen vanhemeninen on sitä, että pysyy osana yhteiskuntaa vanhetessaan
       - aktiivinen vanheneminen lisää elämänlaatua
@@ -180,7 +295,7 @@ Meiner, S. 2014. Gerontologic Nursing. Mosby.
       - esim. lonkkamurtuma lisää masennuksen todennäköisyyttä
       - pseudodementia: masennus joka jää diagnosoimatta, näkyvin oire muistiongelmat
 
-- Tekijä, T. 2020. Nimi kirjan nimi.
+- Tekijä, T. 2020. Nimi kirjan nimi. Julkaisija.
 
       - älykäs idea 1
       - älykäs idea 2
