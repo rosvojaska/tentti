@@ -101,6 +101,7 @@
       (Smolar, Fallon & Brabender 2004)
       (Jones, Fitzpatrick & Rogers 2016)
 3. Verkostohoitotyö (networking)
+      (Seikkula & Alakare 2004)
 4. Ikäihmisten mielenterveyshoitotyö
       (Sadock & Kaplan 2005)
       (Wheeler 2013)
@@ -126,7 +127,7 @@ Schaeffer, L., Marshfield, L. & Munson, C. 2002. Springhouse review for psychiat
             - tarkoitus on lisätä asiakkaan itse-kontrollia ja käsitystä itsestään
       - terapeuttisen keskustelun prinsiipit:
             - aitous, kunnioitus, rehellisyys, konkreettisuus, turvallisuus, avoimuus
-      - esteitä terapeuttisen hoitosuhdetyöskentelyn onnistumiselle:
+      - esteitä terapeuttisen kommunikaation onnistumiselle:
             - hoitaja antaa valmiita vastauksia: estää asiakkaan omien johtopäätösten muodostamista ja näin ollen lisää riippuvuutta hoitajasta ja muista
             - "Miksi?": voi olla liikaa potilaalle, saatta jopa mennä puolustuskannalle tai sit vaa yrittää miellyttää hoitajaa
             - potilaan läksyttäminen: ei auta ongelmanratkaisukyvyn kehittämisessä
@@ -247,6 +248,29 @@ Smolar, A., Fallon, A. & Brabender, V. 2004. Essentials of group therapy. John W
 
 Wheeler, K. 2013. Psychotherapy for the advanced practice psychiatric nurse. A how-to guide for evidence-based practice. Springer publishing company.
       https://ebookcentral.proquest.com/lib/tampere/reader.action?docID=1581170&query=comprehensive+textbook+of+psychiatry
+
+  2. Ryhmähoito
+      - Yleisin ryhmäon psykoedukaatio
+      - Ryhmän hyöty on myös kustannustehokkuus
+      - Yksilöterapiassa ei juuri saa vertaistukea
+      - Ryhmän muodostuksen vaiheet:
+            1. orientaatio: kaikki riippuvaisia ryhmän vetäjästä
+            2. konflikti / myrsky: jäsenet hakevat voimakkaasti omaa rooliaan
+            3. normalisoituminen: ryhmän jäsenillä sama päämäärä
+            4. työskentely: kokemusten jakaminen ja yhteenkuuluvuus syvenee
+            5. lopetus: voi olla haikeaakin aikaa
+      - ryhmän aloittaminen voi olla haastavaa: riittääkö taidot? käytännön asiat? ketä ryhmään valitaan? 
+      - joskus voi auttaa, että ryhmää vetää kaksi hoitajaa, mutta silloin pitää olla sellanen kaveri kenen kanssa homma sujuu
+      - ryhmän perustamisen vaiheet:
+            1. valitaan kohderyhmä
+            2. päätetään tapaamisten määrä ja kesto
+            3. vetääkö ryhmää yksi vai kaksi hoitajaa?
+            4. ryhmään hakeneiden haastattelu ja jäsenten valinta
+
+  3. Verkostohoitotyö
+      - perheet ovat monimuotoisia, mutta 
+      - ihminen elää suurimman osan elämästään perheessä, joten on ihan järkeenkäypää tarkastella tämän nykyisyyttä ja menneisyyttä tässä kontekstissa
+      - 
 
   4. Ikäihmisten mielenterveystyö
       - Hieman yllättäin itsemurhariski on yhdysvaltalaisten tilastojen mukaan suurinta yli 85-vuotiailla miehillä
