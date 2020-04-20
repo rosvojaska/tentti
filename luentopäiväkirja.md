@@ -96,6 +96,8 @@
 
 1. Hoitosuhdetyöskentely (Patient Relation)
       (Schaeffer, Marshfield & Munson 2002)
+      (Jones, Fitzpatrick & Rogers 2016)
+      (Sadock, Sadock & Ruiz 2017)
 2. Ryhmähoito
       (Schaeffer, Marshfield & Munson 2002)
       (Smolar, Fallon & Brabender 2004)
@@ -150,7 +152,7 @@ Schaeffer, L., Marshfield, L. & Munson, C. 2002. Springhouse review for psychiat
                   - ajatuksen kanssa kuunnellaan
                   - voi huomata tiettyjä 
             - sanotun toistaminen
-                  - varmistaa kuullun ymmärtämisen
+                  - hoitaja varmistaa kuullun ymmärtämisensä
                   - asiakkaalle tulee kuulluksi tulemisen tunne
             - using broad openings:
                   - missä olit kun tunsit olosi ahdistuneeksi?
@@ -232,6 +234,21 @@ Smolar, A., Fallon, A. & Brabender, V. 2004. Essentials of group therapy. John W
             - motivaatio
             - 
 
+- Sadock, B., Sadock, V. & Ruiz, P. 2017. Kaplan and Sadock's concise textbook of clinical psychiatry. Wolters Kluwer.
+      https://ebookcentral.proquest.com/lib/tampere/reader.action?docID=5340671&query=kaplan
+  
+  1. Hoitosuhdetyöskentely
+      - ensimmäinen kysymys hoidossa usein tyyliin "mikäs sut tuo tänne?" ja vastaus siihen on tarina
+      - tärkeintä on olla hyvä kuuntelija ja kuunnella empaattisesti: "mitä on olla tämä ihminen keskellä näitä ongelmia"
+      - metaforat, kielikuvat: toimivat siltana maailman ja käsitteiden välillä. asiat eivät aina ole joko/tai ja kieleen tulisi suhtautua postmodernisti semiotiikan kautta
+      - juoni: juoni nivoo yhteen näennäisen irtonaisia tapahtumia ja antaa tarinalle aikajänteen
+      - hahmo: minä muovautuu aina sosiaalisessa ja kulttuurisessa kontekstissa
+      - narratiivinen terapia: kerrotaan tarina ja kerrotaan se sitten uudestaan
+      - alussa on ongelma jota asiakas ei osaa ratkaista. yhdessä terapeutin kanssa asiaa tutkitaan eri näkökulmista jolloin asiakas saa asiaan uusia näkökantoja
+      - narratiivisessa terapiassa nämä uudet näkökannat löydetään kertomalla asiakkaan tarina uusiksi
+      - toipumisorientaatio keskeinen toimintatapa: ihmisen tarinan voi kertoa monella eri tavalla, mutta miten hän sen päättää kertoa on se, mikä hänestä tekee sen mitä hän on
+      - narratiivinen toimintatapa on asiakaskeskeistä ja -lähtöistä
+
 
 - Sadock, B., Sadock, V. & Kaplan H. 2005. Kaplan and Sadock's Comprehensive textbook of psychiatry.
       https://andor.tuni.fi/discovery/fulldisplay?docid=alma993802414205973&context=L&vid=358FIN_TAMPO:VU1&lang=fi&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,comprehensive%20textbook%20of%20psychiatry&offset=0
@@ -270,7 +287,10 @@ Wheeler, K. 2013. Psychotherapy for the advanced practice psychiatric nurse. A h
   3. Verkostohoitotyö
       - perheet ovat monimuotoisia, mutta 
       - ihminen elää suurimman osan elämästään perheessä, joten on ihan järkeenkäypää tarkastella tämän nykyisyyttä ja menneisyyttä tässä kontekstissa
-      - 
+       
+
+      - Verkostot voi myös olla riskitekijöitä. esim. tiiviissä perheyhteisöissä voi ensisijainen paikka hakea apua olla sukulaiset, jolloin ei välttämättä mennä ammattilaiselle ollenkaan
+      - uskonnolliset ryhmät myös voi haitata ulkopuolisen avun hakemista
 
   4. Ikäihmisten mielenterveystyö
       - Hieman yllättäin itsemurhariski on yhdysvaltalaisten tilastojen mukaan suurinta yli 85-vuotiailla miehillä
@@ -286,6 +306,19 @@ Wheeler, K. 2013. Psychotherapy for the advanced practice psychiatric nurse. A h
 
 Jones, J., Fitzpatrick, J. & Rogers, V. 2016. Psychiatric-mental health nursing. An interpersonal approach. Springer publishing company.
       https://ebookcentral.proquest.com/lib/tampere/reader.action?docID=4452680&query=group+therapy
+
+  1. Hoitosuhdetyöskentely
+      - dialogi mahdollistaa maailman hahmottamisen uudesta näkökulmasta
+      - uusi näkökulma mahdollistaa toivoa ja suunnitella parempaa tulevaisuutta
+      
+      - myötätuntouupumus, sijaistraumatisoituminen: kuluttavaa kuunnella ja tukea ihmisiä raskaiden asioiden kanssa
+      - recovery, eli toipumisorientaatio: 
+      - empaattisuus: ei vain aktiivista kuuntelua, vaan maailman näkemistä toisen tavalla
+      - tunteet voi jakaa kuuteen: viha, inho, pelko, ilo, suru ja hämmästys
+      - sanattoman viestinnän tulee kohdata sanottu tai seuraa konfliktia
+      - samat tekniikat mitä tossa toisessakin lähteessä löytyy täältä alkaen sivulta 39
+      
+      - esteitä: kliseiset kommentit, valheellinen vakuuttelu, suljetut kysymykset ja tuomitsevat, vähättelevät, haastavat tai puolustelevat puheenvuorot
 
   2. Ryhmähoito
       - Ryhmä koostuu kahdesta tai useammasta yksilöstä, joilla on vähintään yksi yhteinen piirre tai päämäärä
