@@ -214,6 +214,8 @@ Schaeffer, L., Marshfield, L. & Munson, C. 2002. Springhouse review for psychiat
             - auttaa yksilöitä pärjäämään sisäisten ja ulkoisten haitallisten prosessien kanssa
 
 Smolar, A., Fallon, A. & Brabender, V. 2004. Essentials of group therapy. John Wiley & Sons, Incorporated.
+      https://ebookcentral.proquest.com/lib/tampere/reader.action?docID=361900&ppg=70
+
   2. Ryhmähoito
       - Ryhmäterapia ei ole yksilöterapiaa ryhmässä
       - Ryhmäterapia on tehokkainta silloin, kun huomioidaan koheesio, yleistettävyys, vertaistuki ja -apu
@@ -231,8 +233,10 @@ Smolar, A., Fallon, A. & Brabender, V. 2004. Essentials of group therapy. John W
 
 
       - ketä jätetään ulkopuolelle ryhmäterapiasta?
-            - motivaatio
-            - 
+            - motivaatio puute
+            - liika ahdistus
+            - ei seuraa sääntöjä
+            - ei pysty jakamaan muiden kanssa
 
 - Sadock, B., Sadock, V. & Ruiz, P. 2017. Kaplan and Sadock's concise textbook of clinical psychiatry. Wolters Kluwer.
       https://ebookcentral.proquest.com/lib/tampere/reader.action?docID=5340671&query=kaplan
@@ -288,7 +292,6 @@ Wheeler, K. 2013. Psychotherapy for the advanced practice psychiatric nurse. A h
       - perheet ovat monimuotoisia, mutta 
       - ihminen elää suurimman osan elämästään perheessä, joten on ihan järkeenkäypää tarkastella tämän nykyisyyttä ja menneisyyttä tässä kontekstissa
        
-
       - Verkostot voi myös olla riskitekijöitä. esim. tiiviissä perheyhteisöissä voi ensisijainen paikka hakea apua olla sukulaiset, jolloin ei välttämättä mennä ammattilaiselle ollenkaan
       - uskonnolliset ryhmät myös voi haitata ulkopuolisen avun hakemista
 
