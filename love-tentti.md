@@ -1,48 +1,49 @@
 # Love tentti
 
 ## 1.1 Normistot, lait ja asetukset
-- Lääkehoitoa säätelee
+- LÃ¤Ã¤kehoitoa sÃ¤Ã¤telee
   - Fimea
-    - Lääkealan turvallisuus- ja kehittämiskeskus
+    - LÃ¤Ã¤kealan turvallisuus- ja kehittÃ¤miskeskus
     - Valvoo tuotantoa, markkinointia jne.
     - Seuraa haitavaikutuksia ja kulutusta
   - Valvira
     - Sosiaali- ja terveysalan lupa- ja valvontavirasto
-    - Myöntää ammatinharjoittamisoikeudet Suomessa
-    - Ylläpitää Julki-Terhikkiä
+    - MyÃ¶ntÃ¤Ã¤ ammatinharjoittamisoikeudet Suomessa
+    - YllÃ¤pitÃ¤Ã¤ Julki-TerhikkiÃ¤
   - THL
     - Terveyden ja hyvinvoinnin laitos
     - Tavoite vaikuttaa suomalaisten terveyteen
-    - Muun muassa kehittää rokotusohjelmaa
+    - Muun muassa kehittÃ¤Ã¤ rokotusohjelmaa
   - TTL
-    - Työterveyslaitos
-    - Asiantuntijapalveluita työterveyteen liittyen
+    - TyÃ¶terveyslaitos
+    - Asiantuntijapalveluita tyÃ¶terveyteen liittyen
   - STUK
-    - Säteilyturvakeskus
-    - Tutkii ja valvoo lääketieteellisen säteilyn käyttöä
-- Turvallinen lääkehoito -opas opastaa
+    - SÃ¤teilyturvakeskus
+    - Tutkii ja valvoo lÃ¤Ã¤ketieteellisen sÃ¤teilyn kÃ¤yttÃ¶Ã¤
+- Turvallinen lÃ¤Ã¤kehoito -opas opastaa
   - Organisaatioille
-    - Lääkehoitosuunnitelma
-    - Varmistamiskäytännöt, kuten perehdytys ja lupakoulutus
-    - Haipro jne vaaratapahtumien raportointijärjestelmä
-  - Terveydenhuollon ammattihenkilöille
-    - Linjaa mitä lääkehoidon tehtäviä kukakin saa tehdä
-    - Mitä pitää osata?
+    - LÃ¤Ã¤kehoitosuunnitelma
+    - VarmistamiskÃ¤ytÃ¤nnÃ¶t, kuten perehdytys ja lupakoulutus
+    - Haipro jne vaaratapahtumien raportointijÃ¤rjestelmÃ¤
+  - Terveydenhuollon ammattihenkilÃ¶ille
+    - Linjaa mitÃ¤ lÃ¤Ã¤kehoidon tehtÃ¤viÃ¤ kukakin saa tehdÃ¤
+    - MitÃ¤ pitÃ¤Ã¤ osata?
       1. juridis-eettiset perustiedot
       2. Farmakologiset, fysiologiset, patofysiologiset perustiedot
-      3. Lääkemuotojen ominaisuuksien ymmärtäminen
-      4. Lääkelaskut
+      3. LÃ¤Ã¤kemuotojen ominaisuuksien ymmÃ¤rtÃ¤minen
+      4. LÃ¤Ã¤kelaskut
       5. Hoidon perustiedot
-      6. Lääkkeiden käsittely: kuljetus, hävitys jne.
-- Ammatinharjoittamisen oikeus ja täydennyskoulutus
-  - Laki terveydenhuollon ammattihenkilöistä
-    - Tarkoitus edistää potilasturvallisuutta
+      6. LÃ¤Ã¤kkeiden kÃ¤sittely: kuljetus, hÃ¤vitys jne.
+- Ammatinharjoittamisen oikeus ja tÃ¤ydennyskoulutus
+  - Laki terveydenhuollon ammattihenkilÃ¶istÃ¤
+    - Tarkoitus edistÃ¤Ã¤ potilasturvallisuutta
     - Lupaan vaaditaan tutkinnon antava koulutus
-    - Turvallinen lääkehoito-opas linjaa että mitä kukakin saa tehdä terveydenhuollossa
+    - Turvallinen lÃ¤Ã¤kehoito-opas linjaa ettÃ¤ mitÃ¤ kukakin saa tehdÃ¤ terveydenhuollossa
   - Perehdytys
-    - Työntekijän vastuulla on työtehtävän suorittaminen
-    - Pitää kertoa pomolle jos ei osaa
-    - Muuten työnantaja maksaa vahinkotapauksissa viulut, paitsi jos työntekijä on ollut huolimaton tai ei totellut ohjeita
-  - Täydennyskoulutus
-    - Työntekijä on vastuussa ylläpitämään ja kehittämään osaamistaan
-    - Työnantajan pitää luoda edellytykset täydennyskoulutukseen osallistumiselle
+    - TyÃ¶ntekijÃ¤n vastuulla on tyÃ¶tehtÃ¤vÃ¤n suorittaminen
+    - PitÃ¤Ã¤ kertoa pomolle jos ei osaa
+    - Muuten tyÃ¶nantaja maksaa vahinkotapauksissa viulut, paitsi jos tyÃ¶ntekijÃ¤ on ollut huolimaton tai ei totellut ohjeita
+  - TÃ¤ydennyskoulutus
+    - TyÃ¶ntekijÃ¤ on vastuussa yllÃ¤pitÃ¤mÃ¤Ã¤n ja kehittÃ¤mÃ¤Ã¤n osaamistaan
+    - TyÃ¶nantajan pitÃ¤Ã¤ luoda edellytykset tÃ¤ydennyskoulutukseen osallistumiselle
+    - LÃ¤Ã¤kehoidon osaaminen pitÃ¤Ã¤ varmistaa 2-5 vuoden vÃ¤lein (love-tentti tms.)
